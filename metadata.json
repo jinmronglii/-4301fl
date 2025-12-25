@@ -1,0 +1,7 @@
+{
+  "name": "BK4301FL Pro Guide",
+  "description": "A comprehensive interactive tutorial and AI support system for the BK4301FL Flexible Shaft Brush Cutter.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
